@@ -1,0 +1,14 @@
+.dark-mode {
+    background-color: #282c34;
+    color: #fff;
+  }
+  
+  .dark-mode .table {
+    border-color: #444;
+  }
+  
+  .dark-mode .table th,
+  .dark-mode .table td {
+    border-color: #444;
+  }
+  

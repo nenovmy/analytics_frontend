@@ -1,0 +1,8 @@
+.events-page {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+.events-page h2,
+.events-page p {
+  margin-bottom: 0;
+}
